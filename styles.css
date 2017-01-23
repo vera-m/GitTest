@@ -1,0 +1,77 @@
+body {
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight:300;
+}
+h1 {
+  font-size: 36px;
+}
+.container {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.logo {
+  width: 100px;
+  margin: 0 auto;
+}
+
+.loginfield {
+  background-color: #f7f7f7;
+	height: 350px;
+	width: 350px;
+	padding: 20px 0px;
+	margin: 0 auto;
+  border-bottom-left-radius: 10px 10px;
+  border-bottom-right-radius: 10px 10px;
+  border-top-left-radius: 10px 10px;
+  border-top-right-radius: 10px 10px;
+}
+
+.loginimg {
+  width: 200px;
+  height: 200px;
+  margin: 20px auto;
+  display: block;
+  border-radius:50%;
+}
+.kreis {
+  border-radius:50%;
+}
+.title {
+  text-align: center
+}
+.subtitle {
+  text-align:center
+}
+.loginform {
+  width: 350px;
+margin: 0 auto;
+border-color: #3F83F1;
+}
+.form-control {
+  margin: 5px 0px;
+}
+.create {
+  text-align: center;
+  margin: 30px;
+}
+.logostrip {
+align-self: center;
+margin: 5px;
+}
+p {
+  margin: 15px 0px 0px;
+}
+button {
+  align: center;
+  background-color:#3F83F1;
+  color:#FFFFFF;
+  width: 170px;
+  margin:5px;
+  padding: 10px;
+  border-bottom-left-radius: 10px 10px;
+  border-bottom-right-radius: 10px 10px;
+  border-top-left-radius: 10px 10px;
+  border-top-right-radius: 10px 10px;
+}
